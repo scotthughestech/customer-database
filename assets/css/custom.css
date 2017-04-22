@@ -1,0 +1,23 @@
+/* All Pages */
+
+footer { text-align: center; margin-bottom: 20px; }
+
+/* View Page */
+
+.ajax-loader {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100px;
+    height: 100px;
+    margin-top: -51px;
+    margin-left: -51px;
+    border: 1px solid #000;
+}
+
+.dataTables_length { float: left; }  /* Page length controls */
+.dt-buttons { 
+    float:left;
+    margin-left: 2em;
+}
+
