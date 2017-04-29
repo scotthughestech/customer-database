@@ -24,4 +24,4 @@ PHP 5.6+
 Resources
 #########
 
-Website: http://www.freecustomerdatabasesoftware.com
+Website: <a href="http://www.freecustomerdatabasesoftware.com">Free Customer Database Software</a>
